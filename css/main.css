@@ -3,6 +3,7 @@
   text-align: center;
 }
 .header p{
+  font-weight: normal;
   line-height: 1.7;
   color: #777777;
 }
