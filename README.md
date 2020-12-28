@@ -21,3 +21,4 @@ For Learning Course Git And GitHub
 ##### git config --global --unset user.name 
 ##### ssh-keygen -t rsa -b 4096 -C "it.deep.weblearning2020@gmail.com"
 ##### cat /Users/enayatech/.ssh/id_rsa.pub
+#### ssh -T git@github.com
