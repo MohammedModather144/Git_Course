@@ -10,3 +10,5 @@ For Learning Course Git And GitHub
 ### git branch
 ### git remote -v
 ### git push origin main
+### git fetch origin main
+### git merge origin main
