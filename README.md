@@ -18,4 +18,6 @@ For Learning Course Git And GitHub
 ##### git config -l --show-origin
 ##### git config --global user.email
 ##### git config --global user.name
-### 
+##### git config --global --unset user.name 
+##### ssh-keygen -t rsa -b 4096 -C "it.deep.weblearning2020@gmail.com"
+##### cat /Users/enayatech/.ssh/id_rsa.pub
