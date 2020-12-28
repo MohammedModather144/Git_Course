@@ -10,5 +10,10 @@ For Learning Course Git And GitHub
 ### git branch
 ### git remote -v
 ### git push origin main
-### git fetch origin main
-### git merge origin main
+### git fetch origin 
+### git merge origin 
+### ----git pull origin-----
+### git config -l
+### git help config
+### git config --global user.email
+### git config --global user.name
