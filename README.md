@@ -24,3 +24,5 @@ For Learning Course Git And GitHub
 #### ssh -T git@github.com
 #### git remote add origin git@github.com:MohammedModather144/Git_Course_2.git
 #### git push origin main
+#### git config --global alias.st status
+
