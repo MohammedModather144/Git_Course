@@ -22,3 +22,5 @@ For Learning Course Git And GitHub
 ##### ssh-keygen -t rsa -b 4096 -C "it.deep.weblearning2020@gmail.com"
 ##### cat /Users/enayatech/.ssh/id_rsa.pub
 #### ssh -T git@github.com
+#### git remote add origin git@github.com:MohammedModather144/Git_Course_2.git
+#### git push origin main
