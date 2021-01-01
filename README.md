@@ -21,12 +21,12 @@ For Learning Course Git And GitHub
 ##### git config --global --unset user.name 
 ##### ssh-keygen -t rsa -b 4096 -C "it.deep.weblearning2020@gmail.com"
 ##### cat /Users/enayatech/.ssh/id_rsa.pub
-#### ssh -T git@github.com
-#### git remote add origin git@github.com:MohammedModather144/Git_Course_2.git
-#### git push origin main
-#### git config --global alias.st status
-#### git branch "all"  git checkout -b all
-#### git checkout all
-#### git branch -d "delete branch"
-#### git branch -m "rename branch"
+##### ssh -T git@github.com
+##### git remote add origin git@github.com:MohammedModather144/Git_Course_2.git
+##### git push origin main
+##### git config --global alias.st status
+##### git branch "all"  git checkout -b all
+##### git checkout all
+##### git branch -d "delete branch"
+##### git branch -m "rename branch"
 
