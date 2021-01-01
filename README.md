@@ -29,4 +29,12 @@ For Learning Course Git And GitHub
 ##### git checkout all
 ##### git branch -d "delete branch"
 ##### git branch -m "rename branch"
-
+##### git stash 
+##### git stash pop
+##### git stash list
+##### git stash save "message"
+##### git stash apply
+##### git stash pop @stash{0}
+##### git stash drop stash@{0}
+##### git stash show stash@{0}
+##### git stash clear
