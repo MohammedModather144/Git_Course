@@ -40,3 +40,4 @@ For Learning Course Git And GitHub
 ##### git stash clear
 ##### git tag v2.0  // light wight tage commit 
 ##### git tag -a v2.0 -m "Second Relase" // netotion tage
+#####  git push origin v2.0   // push tage
