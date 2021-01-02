@@ -38,3 +38,5 @@ For Learning Course Git And GitHub
 ##### git stash drop stash@{0}
 ##### git stash show stash@{0}
 ##### git stash clear
+##### git tag v2.0  // light wight tage commit 
+##### git tag -a v2.0 -m "Second Relase" // netotion tage
