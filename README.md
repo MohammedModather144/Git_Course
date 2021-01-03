@@ -42,4 +42,6 @@ For Learning Course Git And GitHub
 ##### git tag -a v2.0 -m "Second Relase" // netotion tage
 #####  git push origin v2.0   // push tage
 ##### git tag -l "v1.*" // search tage
-##### git tag -d v1.0
+##### git tag -d v1.0 // delete tag in remote local
+####  git push origin --delete v1.0 // delete tag main
+
